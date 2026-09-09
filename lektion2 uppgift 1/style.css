@@ -2,6 +2,11 @@ h1{
     color: tomato;
 background-color: yellow;}
 
-h2{color: blue;
-background-color: aqua;
+h2{color:  blue (32, 44, 53);
+background-color: blue (4, 0, 255);
+}
+
+h3{color: black (6, 6, 6);
+background-color: brown;    
+
 }
